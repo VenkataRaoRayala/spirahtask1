@@ -1,16 +1,30 @@
 # spirahtask
 
-A new Flutter project.
+Given a sample JSON which has a list of food products.
+Product Object Model:
+{
+    "productID": integer,
+    "productName": string,
+    "category": string,
+    "price": integer
+  }
 
-## Getting Started
+Parse the JSON using the programming language of your choice(Dart preferred) and display the food products as a category list followed by all the products in that category
 
-This project is a starting point for a Flutter application.
+Category-1
+productName-1
+productName-2
+productName-3
+productName-4
+Category-2
+productName-1
+productName-2
+productName-3
+productName-4
+Category-3
+productName-1
+productName-2
+productName-3
+productName-4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
